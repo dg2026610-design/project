@@ -33,3 +33,6 @@ while True:
         rate(80)    
         ball.v = ball.v + gr * dt
         ball.pos = ball.pos + ball.v * dt
+
+
+https://glowscript.org/#/user/dg2026602/folder/MyPrograms/program/ty #사이트
